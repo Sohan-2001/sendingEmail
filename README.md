@@ -1,2 +1,3 @@
 # sendingEmail
-Flask API for sending emails
+Flask API for email sending automation - useful for email verfication via OTP
+
